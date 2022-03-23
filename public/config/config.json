@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC733171A3Ef9A1514E96CcC1BbC6e560aB2D66ec",
+  "SCAN_LINK": "https://snowtrace.io/address/0xC733171A3Ef9A1514E96CcC1BbC6e560aB2D66ec",
+  "NETWORK": {
+    "NAME": "Avalanche Mainnet C-Chain",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "The Funky Horse Pub",
+  "SYMBOL": "FHP",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0xC733171A3Ef9A1514E96CcC1BbC6e560aB2D66ec",
+  "SHOW_BACKGROUND": true
+}
